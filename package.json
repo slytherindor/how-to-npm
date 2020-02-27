@@ -1,0 +1,26 @@
+{
+  "name": "@ryancyrus/how_to_npm",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Shubhanshu Aarsay",
+  "license": "ISC",
+  "description": "This is just a project to learn how to work with npm.",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slytherindor/how-to-npm.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "bugs": {
+    "url": "https://github.com/slytherindor/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/slytherindor/how-to-npm#readme"
+}
