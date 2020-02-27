@@ -1,6 +1,6 @@
 {
   "name": "@ryancyrus/how_to_npm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
