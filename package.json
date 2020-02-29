@@ -8,9 +8,7 @@
   "author": "Shubhanshu Aarsay",
   "license": "ISC",
   "description": "This is just a project to learn how to work with npm.",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "repository": {
     "type": "git",
